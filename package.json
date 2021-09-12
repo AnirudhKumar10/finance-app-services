@@ -1,0 +1,20 @@
+{
+  "name": "finance-app-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnirudhKumar10/finance-app-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/AnirudhKumar10/finance-app-services/issues"
+  },
+  "homepage": "https://github.com/AnirudhKumar10/finance-app-services#readme"
+}
